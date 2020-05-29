@@ -28,3 +28,7 @@ form input {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
+
+input[type="submit"]:hover {
+    background-color: #c9bfbf;
+}
