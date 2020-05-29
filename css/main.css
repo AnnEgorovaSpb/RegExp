@@ -1,0 +1,30 @@
+form {
+    float: left;
+}
+
+form div {
+    text-align: right;
+    clear: both;
+    line-height:25px;
+}
+
+form label {
+    float: left;
+    padding-right:10px;
+}
+
+form textarea {
+    display: block;
+    width: 274px;
+    resize: none;
+    margin: 0 0 10px 0;
+    background-color: #f0efef;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form input {
+    background-color: #f0efef;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
