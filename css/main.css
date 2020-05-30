@@ -8,6 +8,11 @@ form div {
     line-height:25px;
 }
 
+.errorClass {
+    background-color: #fdb9b9;
+    border: 1px solid #9e1515;
+}
+
 form label {
     float: left;
     padding-right:10px;
